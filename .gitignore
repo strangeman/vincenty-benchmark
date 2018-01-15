@@ -1,0 +1,17 @@
+# virtualenv files
+/bin
+/include
+/lib
+/pip-selfcheck.json
+
+# pytest files
+/.benchmarks
+/.cache
+
+# build folder
+/build
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
